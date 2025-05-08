@@ -1,2 +1,3 @@
-# T4_Pr-ctica1
-Codes de T4_Práctica1
+# Tema-4-Modelo-de-Programacion-Logica
+
+Codes de T4
